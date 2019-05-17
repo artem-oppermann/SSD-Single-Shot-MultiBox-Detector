@@ -12,5 +12,5 @@ Work in progress
 | DT_INT32  | tf.int32  | 32 bits signed integer  |
 | DT_INT64  | tf.int64  | 64 bits signed integer  |
 | DT_UINT8  | tf.uint8  | 8 bits unsigned integer  |
-| DT_STRING  | tf.string  | Variable byte array. Each element of a tensor is a byte array  |
+| DT_STRING  | tf.string  | Variable byte array  |
 | DT_BOOL  | tf.bool  | Boolean  |
