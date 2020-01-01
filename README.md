@@ -1,5 +1,5 @@
 # SSD-Single-Shot-MultiBox-Detector
 
-Work in progress
+Object detection and classification with Single Shot MultiBox-Detector.
 
 
